@@ -1,0 +1,117 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    /* font-family: 'Montserrat', sans-serif;
+    font-family: 'Sacramento', cursive;
+    ;*/
+}
+
+h1 {
+    font-size: 5rem;
+    margin: 70px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.design {
+    font-weight: normal;
+}
+
+.topcloud {
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+
+.btmcloud {
+    position: absolute;
+    left: 150px;
+}
+
+.top {
+    background-color: #EAF6F6;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    width: 40%;
+    margin: 30px auto;
+}
+
+.pro-disc {
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    width: 4%;
+    border-top: dotted 6px rgb(158, 157, 157);
+}
+
+.para {
+    margin: 30px auto 60px auto;
+}
+
+.contact-me {
+    margin: 60px auto;
+}
+
+.btn {
+    width: 50%;
+    text-decoration: none;
+    border: 3px solid #58a9c0;
+    background-color: #58a9c0;
+    color: white;
+    padding: 6px 25px;
+    border-radius: 10px;
+}
+
+.bottom-container {
+    background-color: #58a9c0;
+    border: 2px solid #58a9c0;
+    padding-top: 43px;
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 14px 10px 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foot {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
